@@ -250,3 +250,5 @@
 # result = ["even" if n % 2 == 0 else "odd" for n in nums]
 # print(result)
 # output:['odd', 'even', 'odd', 'even', 'odd']
+
+#git check
